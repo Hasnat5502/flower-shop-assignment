@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+}
+.header-banner{
+    background-color: #E5B854;
+    padding: 0px 165px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header-banner-text{
+    max-width: 50%;
+}
+.header-banner-text>h1{
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+.header-banner-text>p{
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.header-banner-text>button{
+    height: 50px;
+    width: 150px;
+    background-color:#E55473 ;
+    border: 0px;
+    color: white;
+}
