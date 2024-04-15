@@ -2,7 +2,7 @@
     margin: 0px;
 }
 .header-banner{
-    background-color: #E5B854;
+    background-color: #f0cfe4;
     padding: 0px 165px;
     display: flex;
     align-items: center;
@@ -25,4 +25,78 @@
     background-color:#E55473 ;
     border: 0px;
     color: white;
+}
+.our-feautures{
+    background-color: #ffffff;
+    padding: 0px 165px;
+}
+.our-feautures-text{
+    text-align: center;
+    margin-top: 100px;
+}
+.our-feautures-text>h1{
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+.photo-colleage{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 0px 165px;
+}
+.photo-colleage-total-1{
+    height: 605px;
+    width: 464px;
+}
+.photo-colleage-1{
+    height: 565px;
+    width: 100%;
+    background-color: #E55473;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    border-top-right-radius: 200px;
+    border-top-left-radius: 200px;
+}
+.photo-colleage-1-text{
+    text-align: center;
+    margin-top: 20px;
+}
+.photo-colleage-total-2{
+    height: 605px;
+    width: 464px;
+}
+.photo-colleage-2{
+    height: 565px;
+    width: 100%;
+    background-color: #0597A0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top-right-radius: 200px;
+    border-top-left-radius: 200px;
+}
+.photo-colleage-2-text{
+    text-align: center;
+    margin-top: 20px;
+}
+.photo-colleage-total-3{
+    height: 605px;
+    width: 464px;
+}
+.photo-colleage-3{
+    height: 565px;
+    width: 100%;
+    background-color: #477D11;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    border-top-right-radius: 200px;
+    border-top-left-radius: 200px;
+}
+.photo-colleage-3-text{
+    text-align: center;
+    margin-top: 20px;
 }
