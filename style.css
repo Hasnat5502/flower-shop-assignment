@@ -29,6 +29,7 @@
 .our-feautures{
     background-color: #ffffff;
     padding: 0px 165px;
+    margin-bottom: 50px;
 }
 .our-feautures-text{
     text-align: center;
@@ -43,16 +44,14 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 20px;
+    gap: 90px;
     padding: 0px 165px;
 }
 .photo-colleage-total-1{
     height: 605px;
-    width: 464px;
 }
 .photo-colleage-1{
     height: 565px;
-    width: 100%;
     background-color: #E55473;
     display: flex;
     align-items: end;
@@ -66,11 +65,9 @@
 }
 .photo-colleage-total-2{
     height: 605px;
-    width: 464px;
 }
 .photo-colleage-2{
     height: 565px;
-    width: 100%;
     background-color: #0597A0;
     display: flex;
     align-items: center;
@@ -84,11 +81,9 @@
 }
 .photo-colleage-total-3{
     height: 605px;
-    width: 464px;
 }
 .photo-colleage-3{
     height: 565px;
-    width: 100%;
     background-color: #477D11;
     display: flex;
     align-items: end;
@@ -100,3 +95,17 @@
     text-align: center;
     margin-top: 20px;
 }
+.delivery-option-supports{
+    height: 200px;
+    background: lightgray;
+    margin-top: 100px;
+    padding: 20px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.delivery-option-supports img{
+    display: block;
+    margin: 10px auto;
+}
+
