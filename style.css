@@ -139,3 +139,126 @@
     margin: auto;
     margin-top: 20px;
 }
+.instagram-text{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.instagram-text>h1{
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+.instagram-text>p{
+    font-size: 16px;
+    color: lightslategray;
+}
+.instagram-total-photocolleage{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    gap: 5px;
+}
+.instagram-photo-1{
+    height: 350px;
+    width: 290px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.instagram-photo-1>img{
+    height: 350px;
+    width: 290px;
+}
+.instagram-photo-2{
+    height: 350px;
+    width: 290px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.instagram-photo-2>img{
+    height: 350px;
+    width: 290px;
+}
+.instagram-photo-3{
+    height: 350px;
+    width: 290px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.instagram-photo-3>img{
+    height: 350px;
+    width: 290px;
+}
+.instagram-photo-4{
+    height: 350px;
+    width: 290px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.instagram-photo-4>img{
+    height: 350px;
+    width: 290px;
+}
+.email{
+    height: 400px;
+    margin: 30px 165px;
+    background-image: url(images/Rectangle\ 9.png);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.email>.content>h1{
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 48px;
+}
+.email>.content>p{
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(137, 134, 134);
+}
+.email>.content>form>label{
+    display: flex;
+    gap: 20px;
+}
+.email>.content>form>label>input{
+    display: block;
+    margin: auto;
+    height: 40px;
+    width: 600px;
+    border-radius: 3px;
+    border: 0px ;
+}
+.email>.content>form>label>button{
+    align-items: center;
+    height: 40px;
+    width: 150px;
+    background-color:#E55473 ;
+    border: 0px;
+    color: white;
+}
+.footer{
+    padding: 0px 165px;
+    height: 300px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-text h1{
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+}
+.footer-text>p{
+    color: lightgray;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.last{
+    font-size: x-small;
+}
