@@ -2,7 +2,7 @@
     margin: 0px;
 }
 .header-banner{
-    background-color: #f0cfe4;
+    background-color: lightpink;
     padding: 0px 165px;
     display: flex;
     align-items: center;
@@ -108,4 +108,34 @@
     display: block;
     margin: 10px auto;
 }
+.hot-deals{
+    height: 600px;
+    padding: 0px 165px;
+    background-color: lightpink;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
 
+}
+.hot-deals-text{
+    max-width: 600px;
+}
+.hot-deals-text>h1{
+    font-size: 44px;
+}
+.hot-deals-text>p{
+    text-align: center;
+    margin-top: 20px;
+}
+.hot-deals-text>button{
+    align-items: center;
+    height: 50px;
+    width: 150px;
+    background-color:#E55473 ;
+    border: 0px;
+    color: white;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
